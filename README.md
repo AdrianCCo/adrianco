@@ -21,7 +21,7 @@ I am a third-year Software Engineering student at the University of Calgary, pas
 
 ### Drone-Based Grass Damage Detection
 
-* Built a machine learning pipeline to analyze aerial imagery and detect damaged grass areas in fields
+* Currently building a machine learning pipeline to analyze aerial imagery and detect damaged grass areas in fields
 
 ### LLM Website Planner
 
