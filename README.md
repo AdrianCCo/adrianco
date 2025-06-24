@@ -6,7 +6,7 @@ I am a third-year Software Engineering student at the University of Calgary, pas
 
 ## Interests
 
-* **Software Development:** Building full-stack applications with JavaScript, Node.js, and C++
+* **Software Development:** Building full-stack applications with Python, JavaScript, Node.js, and C++
 * **Machine Learning & AI:** Implementing classification models and working with TensorFlow and PyTorch
 * **DevOps & Cloud:** Containerization with Docker, CI/CD pipelines, and Kubernetes deployments
 * **Data Analysis:** Exploring NBA statistics and sports analytics
