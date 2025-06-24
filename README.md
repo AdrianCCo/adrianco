@@ -11,7 +11,7 @@ I am a third-year Software Engineering student at the University of Calgary, pas
 * **DevOps & Cloud:** Containerization with Docker, CI/CD pipelines, and Kubernetes deployments
 * **Data Analysis:** Exploring NBA statistics and sports analytics
 * **Sustainability:** Adopting eco-friendly practices and supporting the circular economy
-* **Entertainment:** Basketball, fitness, and watching K-dramas, especially school-based dramas and thrillers
+* **Entertainment:** Basketball 🏀, fitness 🏋️‍♂️, and watching K-dramas 📺, especially school-based dramas and thrillers
 
 ## Projects
 
